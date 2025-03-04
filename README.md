@@ -6,7 +6,7 @@ This repository contains various tasks assigned under the **L&T Training Program
 
 ## 📑 Task List  
 1.**Product Exploring**
-   - "Exploring innovative products and ideas—stay tuned for exciting discoveries!"
+   - Exploring innovative products and ideas—stay tuned for exciting discoveries!
 
 2. **Complex Problem Table**  
    - A structured analysis of complex engineering problems and their solutions.  
