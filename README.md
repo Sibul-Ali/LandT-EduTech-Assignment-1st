@@ -5,7 +5,7 @@
 This repository contains various tasks assigned under the **L&T Training Program** for **BTech ECE (Batch 1)** at **Quantum University**. The tasks focus on problem-solving, case studies, and theoretical development related to engineering concepts.  
 
 ## 📑 Task List  
-1.**Product Exploring**
+1. **Product Exploring**
    - "Exploring innovative products and ideas—stay tuned for exciting discoveries!"
 
 2. **Complex Problem Table**  
