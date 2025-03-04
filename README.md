@@ -5,14 +5,16 @@
 This repository contains various tasks assigned under the **L&T Training Program** for **BTech ECE (Batch 1)** at **Quantum University**. The tasks focus on problem-solving, case studies, and theoretical development related to engineering concepts.  
 
 ## 📑 Task List  
+1.**Product Exploring**
+   - "Exploring innovative products and ideas—stay tuned for exciting discoveries!"
 
-1. **Complex Problem Table**  
+2. **Complex Problem Table**  
    - A structured analysis of complex engineering problems and their solutions.  
 
-2. **Case Study**  
+3. **Case Study**  
    - A detailed study of industry-related engineering problems and innovative solutions.  
 
-3. **Developing a CK Theory**  
+4. **Developing a CK Theory**  
    - Research and conceptual development of CK (Concept-Knowledge) Theory in engineering.  
 
 ## 🔗 Submission Guidelines  
